@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gneedels
-- 👀 I’m interested in programming for banner and other applications
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in programming for web frontend programming
+- 🌱 I’m currently learning Javascript, Google Firebase, HTML, C#, and PHP
 - 💞️ I’m looking to collaborate on nothing yet
 
 
